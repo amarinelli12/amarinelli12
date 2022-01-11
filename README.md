@@ -1,11 +1,15 @@
 ### Welcome to my GitHub! 👋
 
+My name is Andrew Marinelli and I am a math/science teacher turned data science enthusiast! I graduated from the **Flatiron School Data Science Immersive** program in December 2021.  
+
+
+
 <!--
 **amarinelli12/amarinelli12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
