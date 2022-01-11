@@ -3,9 +3,9 @@
 My name is **Andrew Marinelli** and I am a math/science teacher turned data science enthusiast! I graduated from the **Flatiron School Data Science Immersive** program in December 2021 and am excited to continue working on personal and professional projects here. 
 
 I begin every project asking myself:
-- **"What story does the data tell?** 
+- **What story does the data tell?** 
 - **Why does this story matter to my stakeholder?** 
-- **How can I communicate its importance in a meaningful way?"**
+- **How can I communicate its importance in a meaningful way?**
 
 
 
