@@ -10,8 +10,6 @@ I begin every project asking myself:
 Data is more than just numbers and graphs - data tells a story and from this we can gain a wide variety of meaningful insights. I am dedicated to getting the most out of data by telling these stories. 
 
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarinelli12)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
